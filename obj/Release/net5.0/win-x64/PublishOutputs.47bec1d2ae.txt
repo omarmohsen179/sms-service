@@ -1,0 +1,10 @@
+D:\Back Service\appsettings.Development.json
+D:\Back Service\appsettings.json
+D:\Back Service\SMS_Sender.pdb
+D:\Back Service\clrcompression.dll
+D:\Back Service\clrjit.dll
+D:\Back Service\coreclr.dll
+D:\Back Service\mscordaccore.dll
+D:\Back Service\Microsoft.Data.SqlClient.SNI.dll
+D:\Back Service\Microsoft.Data.SqlClient.SNI.pdb
+D:\Back Service\SMS_Sender.exe
